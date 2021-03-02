@@ -27,7 +27,7 @@ title: Commands
 ---
 - **`!playskip`** - Skips the current song and plays the song you requested.
     - **Usage:** `!playskip <link/query>`
-    - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
+    - **Aliases:** `ps`, `pskip`, `playnow`, `pn`, `skip`
 ---
 - **`!search`** - Searches from [Youtube](https://www.youtube.com) for a song via your query and returns the top 10 results.
     - **Usage:** `!search <query>`
